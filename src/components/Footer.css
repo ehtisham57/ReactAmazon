@@ -1,0 +1,32 @@
+/* Footer.css */
+.footer {
+    background-color: #232f3e;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .footer__links,
+  .footer__social {
+    margin-bottom: 15px;
+  }
+  
+  .footer__link,
+  .footer__socialLink {
+    color: #ffffff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .footer__link:hover,
+  .footer__socialLink:hover {
+    text-decoration: underline;
+  }
+  
+  .footer__copyright {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  
